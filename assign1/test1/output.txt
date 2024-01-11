@@ -1,0 +1,25 @@
+start of simulation with Processes: 3
+Process ID 1 moved from NEW to READY at time 0
+Process ID 1 moved from READY to RUNNING at time 0
+Process ID 2 moved from NEW to READY at time 2
+Process ID 1 moved from RUNNING to WAITING at time 2
+Process ID 2 moved from READY to RUNNING at time 2
+Process ID 3 moved from NEW to READY at time 4
+Process ID 1 moved from WAITING to READY at time 5
+Process ID 2 moved from RUNNING to WAITING at time 5
+Process ID 3 moved from READY to RUNNING at time 5
+Process ID 2 moved from WAITING to READY at time 6
+Process ID 3 moved from RUNNING to WAITING at time 6
+Process ID 1 moved from READY to RUNNING at time 6
+Process ID 1 moved from RUNNING to WAITING at time 8
+Process ID 2 moved from READY to RUNNING at time 8
+Process ID 3 moved from WAITING to READY at time 9
+Process ID 2 moved from RUNNING to TERMINATING at time 9
+Process ID 3 moved from READY to RUNNING at time 9
+Process ID 3 moved from RUNNING to TERMINATING at time 10
+Process ID 1 moved from WAITING to READY at time 11
+Process ID 1 moved from READY to RUNNING at time 11
+Process ID 1 moved from RUNNING to WAITING at time 13
+Process ID 1 moved from WAITING to READY at time 16
+Process ID 1 moved from READY to RUNNING at time 16
+Process ID 1 moved from RUNNING to TERMINATING at time 17
